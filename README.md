@@ -1,6 +1,6 @@
 # About_Me —— 关于我
 
-## Hi!
+## Hi
 My name is **MoXueYi**.
 I am **Chinese** and also a **student**.
 I was born in a bad family,But i don't hate this home,Maybe my first project was born for this.
