@@ -1,4 +1,4 @@
-# About_Me —— 关于我
+# About_Me
 
 ## Hi
 My name is **MoXueYi**.
